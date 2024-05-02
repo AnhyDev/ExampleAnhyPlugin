@@ -1,7 +1,5 @@
 package ink.anh.example;
 
-import java.util.Arrays;
-import java.util.Locale;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
@@ -11,7 +9,6 @@ import org.bukkit.entity.Player;
 import ink.anh.api.lingo.Translator;
 import ink.anh.api.messages.MessageType;
 import ink.anh.api.messages.Messenger;
-import ink.anh.api.player.PlayerData;
 import ink.anh.api.utils.LangUtils;
 
 // Implements CommandExecutor to handle commands for the plugin.
